@@ -1,0 +1,12 @@
+{
+  "name": "dev-templates",
+  "version": "1.0.0",
+  "description": "Development Templates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["templates", "development", "standards"],
+  "author": "Jack Moorman @jackmoorman",
+  "license": "ISC"
+}
